@@ -25,7 +25,7 @@ struct ListActions: View {
                 }
             }
             .listStyle(.sidebar)
-            .navigationTitle("Characters")
+            .navigationTitle("Swipe to pin")
         }
     }
 
