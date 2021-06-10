@@ -12,6 +12,7 @@
 		CAAB62AB2670BD5E00C5E444 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAAB62AA2670BD5E00C5E444 /* Preview Assets.xcassets */; };
 		CAAB62B22670BD8C00C5E444 /* AsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAB62B12670BD8C00C5E444 /* AsyncImage.swift */; };
 		CAAB62B42670D0DA00C5E444 /* ListImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAB62B32670D0DA00C5E444 /* ListImageAsync.swift */; };
+		CAD05D7A2672C18900E1D0FB /* CanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD05D792672C18900E1D0FB /* CanvasView.swift */; };
 		CAFB61642670EFDE00944ACD /* ListActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAFB61632670EFDE00944ACD /* ListActions.swift */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 		CAAB62AA2670BD5E00C5E444 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CAAB62B12670BD8C00C5E444 /* AsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImage.swift; sourceTree = "<group>"; };
 		CAAB62B32670D0DA00C5E444 /* ListImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListImageAsync.swift; sourceTree = "<group>"; };
+		CAD05D792672C18900E1D0FB /* CanvasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanvasView.swift; sourceTree = "<group>"; };
 		CAFB61632670EFDE00944ACD /* ListActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListActions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,6 +63,7 @@
 				CAFB61632670EFDE00944ACD /* ListActions.swift */,
 				CAAB62A72670BD5E00C5E444 /* Assets.xcassets */,
 				CAAB62A92670BD5E00C5E444 /* Preview Content */,
+				CAD05D792672C18900E1D0FB /* CanvasView.swift */,
 			);
 			path = WWDC21SwifUI;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				CAAB62B42670D0DA00C5E444 /* ListImageAsync.swift in Sources */,
 				CAFB61642670EFDE00944ACD /* ListActions.swift in Sources */,
+				CAD05D7A2672C18900E1D0FB /* CanvasView.swift in Sources */,
 				CAAB62B22670BD8C00C5E444 /* AsyncImage.swift in Sources */,
 				CAAB62A42670BD5D00C5E444 /* WWDC21SwifUIApp.swift in Sources */,
 			);
