@@ -2,3 +2,4 @@
 ### AsyncImage
 ### Refreshable
 ### List custom swipe actions
+### Canvas
